@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @LucasLuccaCode
-- 👀 I’m interested in: Html, Css, JavaScript, React, Shell, Awk, Tasker
-- 🌱 I’m currently learning: JavaScript, React
+- Hi, I’m @LucasLuccaCode
+- I’m interested in: Html, Css, JavaScript, React, Shell, Awk, Tasker
+- I’m currently learning: JavaScript, React, Node.js
 - 📫 How to reach me: https://t.me/MrRoboot
 
 <!---
