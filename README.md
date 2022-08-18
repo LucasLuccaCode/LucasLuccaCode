@@ -4,7 +4,7 @@ Apaixonado pelo processo de criar minhas próprias aplicações e à infinidade 
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/MrRoboot) [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/Xx-LucasLucca-xX)
 
-![Lucas Lucca GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasLuccaCode&show_icons=true&theme=dark) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasLuccaCode&layout=compact)](https://github.com/LucasLuccaCode/github-readme-stats)
+![Lucas Lucca GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasLuccaCode&show_icons=true&theme=dark)
 
 ### Tecnologias que estudo
 
@@ -30,3 +30,7 @@ Apaixonado pelo processo de criar minhas próprias aplicações e à infinidade 
 - [AppTools](https://github.com/LucasLuccaCode/AppTools---Tasker)
 - [Jogo Pac-Man](https://github.com/LucasLuccaCode/Pacman)
 - [Mr Music Player](https://github.com/LucasLuccaCode/Mr-Music-Player)
+
+<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasLuccaCode&layout=compact)](https://github.com/LucasLuccaCode/github-readme-stats)
