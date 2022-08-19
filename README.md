@@ -23,7 +23,7 @@ Apaixonado pelo processo de desenvolver aplicações e à infinidade de possibil
 
 <br>
 
-### Ultimos aplicativos criados
+### Ultimas aplicações desenvolvidas
 <br>
 
 - [Agenda](https://github.com/LucasLuccaCode/Agenda-Nodejs)
