@@ -1,4 +1,4 @@
-### Olá!! eu sou o Lucas Lucca ✋
+### Olá!! eu sou o Lucas ✋
 
 Apaixonado pelo processo de desenvolver aplicações e à infinidade de possibilidades tecnológicas...
 
