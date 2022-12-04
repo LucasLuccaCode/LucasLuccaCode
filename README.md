@@ -27,6 +27,7 @@ Apaixonado pelo processo de desenvolver aplicações e à infinidade de possibil
 ### Ultimas aplicações desenvolvidas
 <br>
 
+- [Party Time](https://github.com/LucasLuccaCode/party-time)
 - [Agenda](https://github.com/LucasLuccaCode/Agenda-Nodejs)
 - [Clipboard]()
 - [AppTools](https://github.com/LucasLuccaCode/AppTools---Tasker)
