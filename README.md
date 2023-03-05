@@ -33,6 +33,7 @@ Apaixonado pelo processo de desenvolver aplicações e à infinidade de possibil
 - [ChatGPT Interface](https://github.com/LucasLuccaCode/chatgpt-react-interface)
 - [Thoughts](https://github.com/LucasLuccaCode/thoughts-react)
 - [Habits](https://github.com/LucasLuccaCode/nlw-setup-frontend)
+- [Tic Tac Toe](https://github.com/LucasLuccaCode/tic-tac-toe)
 - [Party Time](https://github.com/LucasLuccaCode/party-time)
 - [Agenda](https://github.com/LucasLuccaCode/Agenda-Nodejs)
 - [AppTools](https://github.com/LucasLuccaCode/AppTools---Tasker)
